@@ -102,7 +102,7 @@ Version 1, le moteur en ligne de commande :
 
 - [x] Révision des bases : DNS, TCP, port 443, handshake TLS, chaîne de certification
 - [x] Lecture de certificats à la main avec `openssl s_client` et `openssl x509`
-- [ ] Récupération du certificat d'un site en Python
+- [x] Récupération du certificat d'un site en Python
 - [ ] Calcul des jours restants et attribution d'un état
 - [ ] Analyse d'une liste de sites depuis `domains.txt`
 - [ ] Gestion des erreurs : domaine inexistant, timeout, certificat invalide
